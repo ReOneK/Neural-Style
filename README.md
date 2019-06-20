@@ -24,6 +24,6 @@ Neural Style
                  
 result(not so good ,just run 20 epoch and use 800 images) :
 
-![1]()
+![1](https://github.com/ReOneK/Neural-Style/blob/master/ref/1.png)
 
-![2]()
+![2](https://github.com/ReOneK/Neural-Style/blob/master/ref/2.png)
